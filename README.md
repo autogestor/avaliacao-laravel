@@ -8,8 +8,6 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
 # Objetivos
   - Conhecer um pouco de suas habilidades em:
     - Laravel;
-    - Organização de arquivos e códigos;
-    - Básico em controle de versão;
     - Entendimento e análise dos requisitos;
     - Capacidade de inovar;
     - Determinação na busca de soluções;
@@ -17,7 +15,7 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
 
 # Fique tranquilo
   - Todo e qualquer código desenvolvido nesse teste não será utilizado em quaisquer outros softwares nem comercializados pela AutoGestor.
-  - O propósito deste teste é apneas avaliar o conhecimento em programaçao do candidato.
+  - O propósito deste teste é apenas avaliar o conhecimento em programaçao do candidato.
 
 # Vamos lá! A aplicação é...
 Criem uma aplicação utilizando Laravel, MySql e quaisquer outras tecnologias que julgar benéficas ao projeto.
@@ -33,7 +31,6 @@ Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim d
 - Apenas os CRUDs de usuário e permissões são necessários. 
 
 ### Sobre os usuários
-Lembramos que existem apenas dois tipos de usuários na aplicação:
 - Administrador;
 - Comum
 
@@ -41,7 +38,6 @@ Lembramos que existem apenas dois tipos de usuários na aplicação:
 - Usar Laravel (Última versão estável);
 - Usar banco de dados Mysql;
 - Usar o github ou bitbucket;
-- Criar arquivo README.md especificando como utilizar a aplicação desenvolvida;
 - No demais fique a vontade para utilizar todos os seus conhecimentos e técnicas possíveis.
 
 ### Para participar basta...
