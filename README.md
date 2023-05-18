@@ -48,6 +48,6 @@ Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim d
 - Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
 
 # Caso precise falar conosco
-- Email: flavia@autogestor.net 
+- Email: flavia@peopletree.com.br 
 
 Fique a vontade para entrar em contato conosco se você tenha alguma dúvida ou assim que terminar a aplicação.
