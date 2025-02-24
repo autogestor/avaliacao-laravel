@@ -7,7 +7,7 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
 
 # Objetivos
   - Conhecer um pouco de suas habilidades em:
-    - Laravel;
+    - Laravel, MySql/MariaDb;
     - Entendimento e análise dos requisitos;
     - Capacidade de inovar;
     - Determinação na busca de soluções;
@@ -18,7 +18,7 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
   - O propósito deste teste é apenas avaliar o conhecimento em programaçao do candidato.
 
 # Vamos lá! A aplicação é...
-Criem uma aplicação utilizando Laravel, MySql e quaisquer outras tecnologias que julgar benéficas ao projeto.
+Criem uma aplicação utilizando Laravel, MySql/MariaDb e quaisquer outras tecnologias que julgar benéficas ao projeto.
 A aplicação deve prover um sistema de Login e nível de acesso simples.
 O administrador do sistema deverá Manter permissões e Manter usuários, cada usuário com uma ou mais permissões para a execução das seguintes tarefas:
  - Manter produtos;
@@ -28,7 +28,9 @@ O administrador do sistema deverá Manter permissões e Manter usuários, cada u
 Não necessita desenvolver os CRUDs referentes às tarefas acima.
 Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim de testarmos se o usuário pode acessa-las ou não;
 - O administrador não tem acesso às tarefas relacionadas a manter produtos, categorias e marcas;
-- Apenas os CRUDs de usuário e permissões são necessários. 
+- Apenas os CRUDs de usuário e permissões são necessários.
+
+O arquivo Readme.md do seu projeto precisa conter instruções claras a respeito da instalaçao da aplicação por você criada.
 
 ### Sobre os usuários
 - Administrador;
@@ -36,13 +38,13 @@ Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim d
 
 ### Requisitos
 - Usar Laravel (Última versão estável);
-- Usar banco de dados Mysql;
-- Usar o github ou bitbucket;
+- Usar banco de dados MySql/MariaDb;
+- Usar o github;
 - No demais fique a vontade para utilizar todos os seus conhecimentos e técnicas possíveis.
 
 ### Para participar basta...
 - Construir a aplicação solicitada;
-- Enviar o link do projeto no github ou bitbucket para o e-mail: flavia@peopletree.com.br;
+- Enviar o link do projeto no github para o e-mail: flavia@peopletree.com.br;
 - Juntamente com o link acima mencionado nos envie também o seu curriculum atualizado;
 - Informar pretenção salarial;
 - Informe também sua disponibilidade para ínicio das atividades caso venha a fazer parte de nossa equipe.
