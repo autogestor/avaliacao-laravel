@@ -20,15 +20,14 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
 # Vamos lá! A aplicação é...
 Criem uma aplicação utilizando Laravel, MySql/MariaDb e quaisquer outras tecnologias que julgar benéficas ao projeto.
 A aplicação deve prover um sistema de Login e nível de acesso simples.
-O administrador do sistema deverá Manter permissões e Manter usuários, cada usuário com uma ou mais permissões para a execução das seguintes tarefas:
- - Manter produtos;
- - Manter categorias;
- - Manter marcas.
+O administrador do sistema deverá fazer a gestão de permissões e gestão de usuários, cada usuário com uma ou mais permissões para a execução das seguintes tarefas:
+ - Gestão de produtos;
+ - Gestão de categorias;
+ - Gestão de marcas.
 	
-Não necessita desenvolver os CRUDs referentes às tarefas acima.
-Crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim de testarmos se o usuário pode acessa-las ou não;
-- O administrador não tem acesso às tarefas relacionadas a manter produtos, categorias e marcas;
-- Apenas os CRUDs de usuário e permissões são necessários.
+Não necessita desenvolver os CRUDs referentes às tarefas acima, ou seja, crie apenas uma tela para cada uma das tarefas contendo apenas o título a fim de testarmos se o usuário pode acessa-las ou não;
+- O administrador não tem acesso às tarefas relacionadas `gestao de produtos, categorias e marcas;
+- Apenas os CRUDs (gestão) de usuário e permissões são necessários.
 
 O arquivo Readme.md do seu projeto precisa conter instruções claras a respeito da instalaçao da aplicação por você criada.
 
